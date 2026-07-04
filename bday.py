@@ -266,7 +266,7 @@ if not st.session_state.revealed:
     <div class="lock-screen">
         <span class="lock-emoji">🌙</span>
         <div class="lock-title">Something special is waiting for you...</div>
-        <div class="lock-sub">Upload her photos & unlock the surprise at midnight 💜</div>
+        <div class="lock-sub">Upload your photos & unlock the surprise 💜</div>
     </div>""", unsafe_allow_html=True)
 
     st.markdown('<div class="section-label">📸 Add your photos</div>', unsafe_allow_html=True)
