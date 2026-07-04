@@ -411,7 +411,7 @@ else:
     <div class="soft-card fade-up">
         Can we talk about the fact that you spend so much time being everyone's
         person — and you still somehow act surprised when people care about you back? 😭<br><br>
-        Like bestie. The audacity of being that kind, that warm, that effortlessly
+        Like beti. The audacity of being that kind, that warm, that effortlessly
         wonderful — and then going "wait, people actually like me?" 🤦<br><br>
         We do. We really, really do.<br><br>
         More than you know. More than you let yourself believe.<br><br>
