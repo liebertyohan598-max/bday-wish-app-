@@ -269,7 +269,7 @@ if not st.session_state.revealed:
         <div class="lock-sub">Upload her photos & unlock the surprise at midnight 💜</div>
     </div>""", unsafe_allow_html=True)
 
-    st.markdown('<div class="section-label">📸 Add her photos</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-label">📸 Add your photos</div>', unsafe_allow_html=True)
     uploaded = st.file_uploader(
         "Choose photos of Hansika",
         type=["jpg","jpeg","png","webp"],
@@ -281,10 +281,10 @@ if not st.session_state.revealed:
         st.markdown(f'<p style="text-align:center;color:#a78bfa;font-size:0.95rem;margin-top:0.8rem;">✅ {len(uploaded)} photo(s) ready ✨</p>', unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown('<div class="section-label">🎁 when she\'s ready — press it</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-label">🎁 when you're ready — press it</div>', unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
 
-    if st.button("🎉 Open Her Surprise!"):
+    if st.button("🎉 Open Surprise!"):
         if not st.session_state.photos:
             st.warning("⚠️ Upload at least one photo first bro!")
         else:
