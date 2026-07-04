@@ -281,7 +281,7 @@ if not st.session_state.revealed:
         st.markdown(f'<p style="text-align:center;color:#a78bfa;font-size:0.95rem;margin-top:0.8rem;">✅ {len(uploaded)} photo(s) ready ✨</p>', unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown('<div class="section-label">🎁 when you're ready — press it</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-label">🎁 when youre ready — press it</div>', unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
 
     if st.button("🎉 Open Surprise!"):
